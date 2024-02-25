@@ -1,6 +1,7 @@
 👨‍💻Tech Stack:
 
 -React
+
 -Tailwind CSS
 
 🚀 Get Started:
