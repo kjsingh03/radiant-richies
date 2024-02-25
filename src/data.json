@@ -1,0 +1,83 @@
+{
+    "tileData": [
+        {
+            "name": "WixPro 72-Inch Responsive Website Builder",
+            "description": "Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)",
+            "imgName": "Builder 1",
+            "highlights": {
+                "content": "Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides."
+            },
+            "stars": 9.8,
+            "rating": "Exceptional"
+        },
+        {
+            "name": "SiteCraft 68-Inch Ultimate Web Design Studio",
+            "description": "Advanced Site Creation Toolkit, Intuitive Drag-and-Drop Editor for Dynamic Websites and E-commerce Platforms (Green/White)",
+            "imgName": "Builder",
+            "highlights": {
+                "content": "Gain access to the SiteCraft design studio, featuring a robust selection of design elements, SEO optimization tools, and e-commerce integrations."
+            },
+            "stars": 9.5,
+            "rating": "Excellent"
+        },
+        {
+            "name": "WixPro 72-Inch Responsive Website Builder",
+            "description": "Comprehensive Digital Platform Creation Tool, Streamlined Design Interface for Professional Websites and Online Stores (Black/Blue)",
+            "imgName": "Builder 1",
+            "highlights": {
+                "content": "Receive the WixPro website builder suite, access to premium design templates, an extensive library of widgets and apps, and detailed step-by-step guides."
+            },
+            "stars": 9.3,
+            "rating": "Exceptional"
+        },
+        {
+            "name": "CDK Resposive Builder",
+            "description": "An extensive library of widgets and apps, and detailed step-by-step guides",
+            "imgName": "CDK",
+            "highlights": {
+                "main": [
+                    {
+                        "no":9.9,
+                        "name":"Building Responsive"
+                    },{
+                        "no":8.9,
+                        "name":"Cool"
+                    },
+                    {
+                        "no":8.9,
+                        "name":"Docs"
+                    }
+                ],
+                "features": [
+                    "Documentation",
+                    "Easy Use",
+                    "Out of Box"
+                ]
+            },
+            "stars": 9.1,
+            "rating": "Very Good",
+            "discount": "26"
+        }
+    ],
+    "cardData":[
+        {
+            "imgName":"Webbuilder 1",
+            "name":"Computer  Modern classic with wix support",
+            "price":49.96,
+            "discount":20
+        },
+        {
+            "imgName":"Webbuilder 1",
+            "name":"Computer  Modern classic with wix support",
+            "price":49.96,
+            "discount":20
+        },
+        {
+            "imgName":"Webbuilder 1",
+            "name":"Computer  Modern classic with wix support",
+            "price":49.96,
+            "discount":20
+        }
+    ]
+
+}

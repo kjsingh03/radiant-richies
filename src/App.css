@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+main li, nav li, footer li{
+    cursor: pointer;
+}
+
+nav li:hover, footer li:hover{
+    color:white;
+}
+
+main li:hover{
+    text-decoration: underline;
+}
