@@ -16,12 +16,12 @@ function Tile({ card, index }) {
           <p className=""><i className=" fa-solid fa-gem"></i> Best Value</p>
         </div>
       }
-      <p className='h-full py-3'>{index + 1}</p>
+      <p className='h-full py-3 absolute top-10'>{index + 1}</p>
       <div className=" flex flex-col items-center gap-4">
         <div className="w-[10rem] h-[7rem] overflow-hidden">
           <img src={logo} className="w-full h-full object-fill" />
         </div>
-        <p className="w-full ">{card.imgName}</p>
+        <p className="w-full text-center">{card.imgName}</p>
       </div>
       <div className="w-full flex flex-col gap-2 sm:gap-3 sm:w-[50%] px-1">
         <p className=""><span className="font-bold text-[#2c384a]">{card.name}-</span> {card.description}</p>
